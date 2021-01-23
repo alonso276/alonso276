@@ -1,8 +1,7 @@
-### Hi there 👋 
 
-                                         ##Hi I'm Lidia👩🏽‍💻 
-                                  Multilingual developer (🇮🇪 + 🇫🇷 +🇪🇸 )
-                  📌  I have recently completed a Full Stack Development bootcamp in Madrid. 
+### Hi I'm Lidia👩🏽‍💻 
+### Multilingual developer (🇮🇪 + 🇫🇷 +🇪🇸 )
+### 📌  I have recently completed a Full Stack Development bootcamp in Madrid. 
 
  Current technologies: 
 
