@@ -1,7 +1,7 @@
 
-### Hi I'm Lidia👩🏽‍💻 
+### Hi there I'm Lidia👩🏽‍💻 
 ### Multilingual developer (🇮🇪 + 🇫🇷 +🇪🇸 )
-### 📌  I have recently completed a Full Stack Development bootcamp in Madrid. 
+###  🌱 I have recently graduated as a Full Stack Developer at Neoland.
 
  Current technologies: 
 
@@ -15,7 +15,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white)
 
-## 📫 Contact Me
+## 📫 Contact Me:
 
 - LinkedIn - [Lidia Alonso ](https://www.linkedin.com/in/alonsolidia/)
 
