@@ -1,5 +1,5 @@
 
-### Hi there I'm Lidia👩🏽‍💻 
+### Hi there!  I'm Lidia👩🏽‍💻 
 ### Multilingual developer (🇮🇪 + 🇫🇷 +🇪🇸 )
 ###  🌱 I have recently graduated as a Full Stack Developer at Neoland.
 
